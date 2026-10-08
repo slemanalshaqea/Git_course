@@ -1,3 +1,3 @@
 # Git_course
 #project notes
-add langush english
+add langush english arabic
